@@ -1,8 +1,5 @@
 # random_note
 
-Plays a random piano note.
+Simple app that randomly plays a sample note A-G so that you can guess which one it is, flashcard-style. Used for training perfect pitch, if such a thing is possible.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[`main.dart`](lib/main.dart) was last modified August 7, 2018.
